@@ -1,0 +1,3 @@
+BE: main python.py
+FE: - npm install
+    - npm run dev
